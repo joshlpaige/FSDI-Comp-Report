@@ -1,0 +1,52 @@
+.header-in{
+    background: rgb(0,62,124);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+header .info{
+    text-align: center;
+    border-bottom: 1px solid black;
+
+}
+
+
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;   
+}
+
+.img-logo{
+    width: 30%;   
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.info{
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+    color: blue;
+}
+
+.footer-in{
+    font-size: 1rem;
+    color:black;
+    border-top:1px solid black;
+    height: 40vh;
+    text-align: center;
+    background-image: url(img/pets.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.found{
+    background: rgb(95,95,50, 0.44);
+}
